@@ -1,6 +1,9 @@
 # Sparrow
 
-Welcome to the Sparrow-Dev repository!  This is the main entry point to all things Sparrow. This master branch will contain more high-level information on Sparrow. Check out the **dev branch** for the latest on our development progress and for an overview of the code structure. 
+Welcome to the Sparrow repository!  This is the main entry point to all things Sparrow. This master branch will contain more high-level information on Sparrow.
+
+##### Check out sparrow-dev repository master branch for most up to date documentation and dev branch for code/issues.
+###### https://github.com/cs210/sparrow-dev
 
 ### Logo:
 
@@ -13,7 +16,7 @@ Welcome to the Sparrow-Dev repository!  This is the main entry point to all thin
 
 ### Project Synopsis: 
 
-In many warehouses or open ports, retailers and companies have difficulty managing inventory and must frequently  clear out inventory to perform stocktaking. Current procedures are primarily manual with workers walking around warehouses and taking down counts for inventory. Drone-based solutions may be able to automate this process and maintain inventory data in a more reliable and timely manner. Our project aims to explore the potential for such a solution and implement a proof of concept drone inventory management solution. Partnering with SAP, our goal is to deploy and evaluate the system in a real world warehouse environment.
+Sparrow is an environment agnostic drone navigation system with the goal of allowing drones to fly autonomously and with stability in new and dynamically changing environments. Our platform allows a drone to integrate multiple sensor inputs including GPS, motion tracking, and depth sensing techniques to localize in urban/indoor spaces. While there are many applications for our drone technology, we have focused initially on search and rescue (SAR). With our client, SAR operators can focus their searches, receive live video, and manually explore before isolating key areas to further investigate with more expensive assets such as helicopters or human search teams.
 
 ### Progress:
 <a href="https://docs.google.com/spreadsheets/d/1GlbBpQz_7MXMb_uh2nw48rq4MK2c7hHvuMBtkL4115g/edit?usp=sharing"> CS210 Activity Tracking </a>
